@@ -5,4 +5,4 @@ In addition the tool checks to see if your PC can support (gaming) features like
 
 ![Screenshot](https://github.com/ByteJammer/Win11RCT/blob/main/screenshot_full.webp)
 
-Currently this repository will hold the translation strings for the tool.
+Currently this repository will hold the releases and translation strings for the tool.

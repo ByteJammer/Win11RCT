@@ -1,0 +1,48 @@
+; English
+
+10=Disabled
+11=Enabled
+12=Not supported
+20=Version
+21=%d-bit operating system
+22=%s-based processor
+23=%3.1f GHz, %d cores, %d threads
+24=Microarchitecture
+25=Intel %dth generation
+26=No hardware support
+27=%d MHz, %d of %d slots used
+28=%s free of %s
+29=%s not found
+30=version
+31=%s feature present
+32=%s feature missing
+33=Connection
+34=Display adapter uses DirectX %d.%d
+
+100=Computer
+101=Windows
+102=System Type
+103=Processor
+104=Virtualization-Based Security
+105=System Memory
+106=Storage
+107=BIOS Mode
+108=Secure Boot
+108=Security processor
+110=Display
+111=Graphics
+112=AutoHDR
+113=DirectStorage
+
+700=Internal Display
+701=No name
+702=Secure Boot capable
+703=Display supports HDR
+
+800=Windows 11 requires a TPM 2.0 security processor.
+801=Windows 11 requires Secure Boot.
+802=While this processor has hardware support for VBS, Microsoft has stated that %s processors might not be supported to run Windows 11.
+803=Your processor does not have hardware support for Hypervisor-Enforced Code Integrity (HVCI).
+804=Windows 11 requires Secure Boot to be enabled.
+
+999=Note: The information shown above is provided "as is" without express or implied guarantees regarding Windows 11 minimum system requirements.

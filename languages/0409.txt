@@ -18,6 +18,12 @@
 32=%s feature missing
 33=Connection
 34=Display adapter uses DirectX %d.%d
+35=Disk
+36=Bus Type
+37=Storage controller
+38=Display adapter
+39=Shader Model
+40=DirectX Shader Model
 
 100=Computer
 101=Windows
@@ -38,11 +44,47 @@
 701=No name
 702=Secure Boot capable
 703=Display supports HDR
+704=Display does not support HDR
 
 800=Windows 11 requires a TPM 2.0 security processor.
 801=Windows 11 requires Secure Boot.
 802=While this processor has hardware support for VBS, Microsoft has stated that %s processors might not be supported to run Windows 11.
 803=Your processor does not have hardware support for Hypervisor-Enforced Code Integrity (HVCI).
 804=Windows 11 requires Secure Boot to be enabled.
+805=Windows 11 requires UEFI (BIOS) firmware
+806=DirectStorage requires the '%s'
+807=DirectStorage requires DirectX 12 with Shader Model 6.0 (or higher)
+808=Windows 11 requires a display that has a resolution of 720p (or higher)
+809=Windows 11 requires a display of 9" (or larger)
+810=Windows 11 requires a display adapter that supports DirectX 12
+811=Windows 11 requires at least 4 GB of memory
+812=Windows 11 requires a processor frequency of at least 1 GHz
+813=Windows 11 requires a processor with at least 2 cores
+814=%s processor is not supported by Windows 11
+815=Volume must have at least a capacity of %llu GB
+816=Windows 11 does not support an Intel® Itanium® processor
+817=Windows 11 requires a 64-bit processor
+818=Windows 11 requires a TPM 2.0 security processor
+819=Windows 10 version 1803 (or newer) is required in order for this computer to be upgraded to Windows 11
+
+899=An error occurred
+900=Failed to acquire display information
+901=No displays found
+902=Failed to acquire firmware type
+903=Failed to acquire computer information
+904=Failed to acquire storage information
+905=Failed to acquire DirectX 12 Shader Model
+906=Failed to acquire DirectX information
+907=No display adapters found
+908=Failed to acquire HVCI information
+909=No hardware support detected
+910=Failed to acquire memory information
+911=Failed to acquire processor name
+912=Failed to acquire processor information
+913=Failed to acquire processor features
+914=Failed to acquire processor frequency
+915=Failed to acquire system type
+916=Failed to acquire TPM information
+917=Failed to acquire Windows version information
 
 999=Note: The information shown above is provided "as is" without express or implied guarantees regarding Windows 11 minimum system requirements.

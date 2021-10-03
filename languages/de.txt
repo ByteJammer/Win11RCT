@@ -11,7 +11,7 @@
 24=Mikroarchitektur
 25=Intel %d. Generation
 26=Keine Hardwareunterstützung
-27=%d MHz, %d von %d Steckplätze verwendet
+27=%d MHz, %d von %d Steckplätzen verwendet
 28=%s frei von %s
 29=%s nicht gefunden
 30=version
@@ -19,7 +19,7 @@
 32=%s Funktion fehlt
 33=Verbindung
 34=Grafikkarte verwendet DirectX %d.%d
-35=Scheibe
+35=Datenträger
 36=Bustyp
 37=Speichercontroller
 38=Grafikkarte
@@ -30,11 +30,11 @@
 101=Windows
 102=Systemtyp
 103=Prozessor
-104=Virtualisierung der Sicherheit (VBS)
+104=Virtualisierungsbasierte Sicherheit (VBS)
 105=Arbeitsspeicher
 106=Datenträger
 107=BIOS-Modus
-108=Sicherer Startzustand
+108=Sicherer Startzustand (Secure Boot)
 109=Sicherheitschip
 110=Anzeige
 111=Grafikkarte
@@ -70,7 +70,7 @@
 812=Windows 11 erfordert eine Prozessorfrequenz von mindestens 1 GHz
 813=Windows 11 erfordert einen Prozessor mit mindestens 2 Kernen
 814=%s-Prozessor wird von Windows 11 nicht unterstützt
-815=Volume muss mindestens eine Kapazität von %llu GB haben
+815=Datenräger muss mindestens eine Kapazität von %llu GB haben
 816=Windows 11 unterstützt keinen Intel® Itanium®-Prozessor
 817=Windows 11 erfordert einen 64-Bit-Prozessor
 818=Windows 11 erfordert einen TPM 2.0-Sicherheitschip
@@ -84,9 +84,9 @@
 903=Fehler beim Abrufen von Computerinformationen
 904=Fehler beim Abrufen von Speicherinformationen
 905=Fehler beim Abrufen von DirectX 12 Shader-Modell
-906=Failed to acquire DirectX information
+906=Fehler beim Abrufen von DirectX-Informationen
 907=Keine Grafikkarten gefunden
-908=Fehler beim Abrufen der HVCI-Informationenon
+908=Fehler beim Abrufen der HVCI-Informationen
 909=Keine Hardwareunterstützung erkannt
 910=Fehler beim Abrufen der Speicherinformationen
 911=Fehler beim Abrufen des Prozessornamens

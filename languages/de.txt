@@ -3,6 +3,7 @@
 10=Ausgeschaltet
 11=Ein
 12=Nicht unterstützt
+13=Fähig
 20=Version
 21=%d-Bit-Betriebssystem
 22=%s-basierter Prozessor
@@ -29,7 +30,7 @@
 101=Windows
 102=Systemtyp
 103=Prozessor
-104=Virtualisierung der Sicherheit
+104=Virtualisierung der Sicherheit (VBS)
 105=Arbeitsspeicher
 106=Datenträger
 107=BIOS-Modus
@@ -40,32 +41,41 @@
 112=AutoHDR
 113=DirectStorage
 
+150=Systemanforderungen
+151=Funktionsspezifische Anforderungen
+
+200=Ihr PC erfüllt die Grundvoraussetzungen für Windows 11
+201=Ihr PC erfüllt fast die Grundvoraussetzungen für Windows 11 
+202=Ihr PC erfüllt nicht die Grundvoraussetzungen für Windows 11 
+203=Fehler bei der Feststellung, ob Ihr PC die Grundvoraussetzungen für Windows 11 erfüllt
+
 700=Interne Anzeige
 701=Kein Name
 702=SecureBoot-fähig
 703=Anzeige ist HDR fähig
 704=Anzeige unterstützt kein HDR
 
-800=Windows 11 erfordert einen TPM 2.0-Sicherheitschip.
-801=Windows 11 erfordert sicherer Startzustand (SecureBoot).
-802=Obwohl Ihr Prozessor Hardwareunterstützung für virtualisierungsbasierte Sicherheit bietet, hat Microsoft angegeben, dass %s-Prozessoren möglicherweise nicht für die Ausführung von Windows 11 unterstützt werden.
-803=Ihr Prozessor bietet keine Hardwareunterstützung für virtualisierungsbasierte Sicherheit (HVCI).
-804=Windows 11 erfordert die Aktivierung von Sicherer Startzustand.
-805=Windows 11 erfordert UEFI (BIOS)-Firmware.
-806=DirectStorage erfordert das '%s'.
-807=DirectStorage erfordert DirectX 12 mit Shader-Modell 6.0 (oder höher).
-808=Windows 11 erfordert ein Anzeige mit einer Auflösung von 720p (oder höher).
-809=Windows 11 erfordert ein 9-Zoll-Anzeige (oder größer).
-810=Windows 11 erfordert eine Grafikkarte, die DirectX 12 unterstützt.
-811=Windows 11 erfordert mindestens 4 GB Arbeitsspeicher.
-812=Windows 11 erfordert eine Prozessorfrequenz von mindestens 1 GHz.
+800=Windows 11 erfordert einen TPM 2.0-Sicherheitschip
+801=Windows 11 erfordert sicherer Startzustand (SecureBoot)
+802=Obwohl Ihr Prozessor Hardwareunterstützung für virtualisierungsbasierte Sicherheit bietet, Microsoft hat erklärt, dass die meisten %s-Prozessoren nicht auf Windows 11 aktualisieren können
+803=Ihr Prozessor bietet keine Hardwareunterstützung für virtualisierungsbasierte Sicherheit (HVCI)
+804=Windows 11 erfordert die Aktivierung von Sicherer Startzustand
+805=Windows 11 erfordert UEFI (BIOS)-Firmware
+806=DirectStorage erfordert das '%s'
+807=DirectStorage erfordert DirectX 12 mit Shader-Modell 6.0 (oder höher)
+808=Windows 11 erfordert ein Anzeige mit einer Auflösung von 720p (oder höher)
+809=Windows 11 erfordert ein 9-Zoll-Anzeige (oder größer)
+810=Windows 11 erfordert eine Grafikkarte, die DirectX 12 unterstützt
+811=Windows 11 erfordert mindestens 4 GB Arbeitsspeicher
+812=Windows 11 erfordert eine Prozessorfrequenz von mindestens 1 GHz
 813=Windows 11 erfordert einen Prozessor mit mindestens 2 Kernen
-814=%s-Prozessor wird von Windows 11 nicht unterstützt.
+814=%s-Prozessor wird von Windows 11 nicht unterstützt
 815=Volume muss mindestens eine Kapazität von %llu GB haben
 816=Windows 11 unterstützt keinen Intel® Itanium®-Prozessor
 817=Windows 11 erfordert einen 64-Bit-Prozessor
 818=Windows 11 erfordert einen TPM 2.0-Sicherheitschip
-819=Windows 10 Version 1803 (oder neuer) ist erforderlich, damit dieser Computer auf Windows 11 aktualisiert werden kann.
+819=Windows 10 Version 1803 (oder neuer) ist erforderlich, damit dieser Computer auf Windows 11 aktualisiert werden kann
+820=Microsoft hat entschieden dass dieser Prozessor trotzdem durch Windows 11 unterstützt wird
 
 899=Ein Fehler ist aufgetreten
 900=Fehler beim Abrufen der Anzeigeinformationen

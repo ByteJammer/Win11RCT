@@ -3,6 +3,7 @@
 10=Disabled
 11=Enabled
 12=Not supported
+13=Capable
 20=Version
 21=%d-bit operating system
 22=%s-based processor
@@ -29,7 +30,7 @@
 101=Windows
 102=System Type
 103=Processor
-104=Virtualization-Based Security
+104=Virtualization-Based Security (VBS)
 105=System Memory
 106=Storage
 107=BIOS Mode
@@ -40,32 +41,41 @@
 112=AutoHDR
 113=DirectStorage
 
+150=System requirements
+151=Feature specific requirements
+
+200=Your PC meets the minimum hardware requirements for Windows 11
+201=Your PC almost meets the minimum hardware requirements for Windows 11
+202=Your PC does not meet the minimum hardware requirements for Windows 11
+203=Failed to determine whether your PC meets the requirements for Windows 11
+
 700=Internal Display
 701=No name
 702=Secure Boot capable
 703=Display supports HDR
 704=Display does not support HDR
 
-800=Windows 11 requires a TPM 2.0 security processor.
-801=Windows 11 requires Secure Boot.
-802=While this processor has hardware support for VBS, Microsoft has stated that %s processors might not be supported to run Windows 11.
-803=Your processor does not have hardware support for Hypervisor-Enforced Code Integrity (HVCI).
-804=Windows 11 requires Secure Boot to be enabled.
-805=Windows 11 requires UEFI (BIOS) firmware.
-806=DirectStorage requires the '%s'.
-807=DirectStorage requires DirectX 12 with Shader Model 6.0 (or higher).
-808=Windows 11 requires a display that has a resolution of 720p (or higher).
-809=Windows 11 requires a display of 9" (or larger).
-810=Windows 11 requires a display adapter that supports DirectX 12.
-811=Windows 11 requires at least 4 GB of memory.
-812=Windows 11 requires a processor frequency of at least 1 GHz.
-813=Windows 11 requires a processor with at least 2 cores.
-814=%s processor is not supported by Windows 11.
-815=Volume must have at least a capacity of %llu GB.
-816=Windows 11 does not support an Intel® Itanium® processor.
-817=Windows 11 requires a 64-bit processor.
-818=Windows 11 requires a TPM 2.0 security processor.
-819=Windows 10 version 1803 (or newer) is required in order for this computer to be upgraded to Windows 11.
+800=Windows 11 requires a TPM 2.0 security processor
+801=Windows 11 requires Secure Boot
+802=While this processor has hardware support for VBS, Microsoft has stated that most %s processors will not be able to upgrade to Windows 11
+803=Your processor does not have hardware support for Hypervisor-Enforced Code Integrity (HVCI)
+804=Windows 11 requires Secure Boot to be enabled
+805=Windows 11 requires UEFI (BIOS) firmware
+806=DirectStorage requires the '%s'
+807=DirectStorage requires DirectX 12 with Shader Model 6.0 (or higher)
+808=Windows 11 requires a display that has a resolution of 720p (or higher)
+809=Windows 11 requires a display of 9" (or larger)
+810=Windows 11 requires a display adapter that supports DirectX 12
+811=Windows 11 requires at least 4 GB of memory
+812=Windows 11 requires a processor frequency of at least 1 GHz
+813=Windows 11 requires a processor with at least 2 cores
+814=%s processor is not supported by Windows 11
+815=Volume must have at least a capacity of %llu GB
+816=Windows 11 does not support an Intel® Itanium® processor
+817=Windows 11 requires a 64-bit processor
+818=Windows 11 requires a TPM 2.0 security processor
+819=Windows 10 version 1803 (or newer) is required in order for this computer to be upgraded to Windows 11
+820=Microsoft has decided that this processor will be supported by Windows 11 nevertheless
 
 899=An error occurred
 900=Failed to acquire display information
@@ -87,4 +97,4 @@
 916=Failed to acquire TPM information
 917=Failed to acquire Windows version information
 
-999=Note: The information shown above is provided "as is" without express or implied guarantees regarding Windows 11 minimum system requirements.
+999=Note: The information shown above is provided "as is" without express or implied guarantees regarding Windows 11 minimum hardware requirements.

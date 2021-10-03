@@ -3,6 +3,7 @@
 10=Uitgeschakeld
 11=Ingeschakeld
 12=Niet ondersteund
+13=Beschikbaar
 20=Versie
 21=%d-bits besturingssysteem
 22=%s-processor
@@ -29,7 +30,7 @@
 101=Windows
 102=Systeemtype
 103=Processor
-104=Beveiliging op basis van virtualisatie
+104=Beveiliging op basis van virtualisatie (VBS)
 105=Systeemgeheugen
 106=Opslag
 107=BIOS-modus
@@ -40,18 +41,26 @@
 112=AutoHDR
 113=DirectStorage
 
+150=Systeemvereisten
+151=Functiespecifieke vereisten
+
+200=Uw PC voldoet aan de basisvereisten voor Windows 11
+201=Uw PC voldoet bijna aan de basisvereisten voor Windows 11
+202=Uw PC voldoet niet aan de basisvereisten voor Windows 11
+203=Fout bij het bepalen of uw PC voldoet aan de basisvereisten voor Windows 11
+
 700=Interne weergave
 701=Geen naam
 702=Met ondersteuning voor beveiligd opstarten
 703=Beeldscherm ondersteunt HDR
 704=Beeldscherm heeft geen ondersteuning voor HDR
 
-800=Windows 11 vereist een TPM 2.0 beveiligingsprocessor.
-801=Windows 11 vereist beveiligd opstarten (Secure Boot).
-802=Hoewel uw processor hardware-ondersteuning heeft voor beveiliging op basis van virtualisatie, heeft Microsoft verklaard dat %s-processoren mogelijk niet worden ondersteund om Windows 11 uit te voeren.
-803=Uw processor heeft geen hardware-ondersteuning voor beveiliging op basis van virtualisatie (HVCI).
-804=Windows 11 vereist dat beveiligd opstarten is ingeschakeld.
-805=Windows 11 vereist UEFI (BIOS) firmware.
+800=Windows 11 vereist een TPM 2.0 beveiligingsprocessor
+801=Windows 11 vereist beveiligd opstarten (Secure Boot)
+802=Hoewel uw processor hardware-ondersteuning heeft voor beveiliging op basis van virtualisatie, heeft Microsoft verklaard dat de meeste %s-processoren niet kunnen upgraden naar Windows 11
+803=Uw processor heeft geen hardware-ondersteuning voor beveiliging op basis van virtualisatie (HVCI)
+804=Windows 11 vereist dat beveiligd opstarten is ingeschakeld
+805=Windows 11 vereist UEFI (BIOS) firmware
 806=DirectStorage vereist de '%s'
 807=DirectStorage vereist DirectX 12 met Shader Model 6.0 (of hoger)
 808=Windows 11 vereist een beeldscherm met een resolutie van 720p (of hoger)
@@ -66,6 +75,7 @@
 817=Windows 11 vereist een 64-bits processor
 818=Windows 11 vereist een TPM 2.0 beveiligingsprocessor
 819=Windows 10 versie 1803 (of nieuwer) is vereist om deze computer te kunnen upgraden naar Windows 11
+820=Microsoft heeft besloten dat deze processor toch door Windows 11 wordt ondersteund 
 
 899=Er is een fout opgetreden
 900=Fout bij verzamelen beeldscherminformatie
@@ -87,4 +97,4 @@
 916=Fout bij ophalen van TPM-informatie
 917=Fout bij ophalen van Windows-versie-informatie
 
-999=Opmerking: de getoonde informatie wordt geleverd "zoals ze is" zonder uitdrukkelijke of impliciete garanties met betrekking tot de minimale systeemvereisten van Windows 11.
+999=Opmerking: de getoonde informatie wordt geleverd "zoals ze is" zonder uitdrukkelijke of impliciete garanties met betrekking tot de basisvereisten van Windows 11.

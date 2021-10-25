@@ -26,6 +26,15 @@
 39=Shader-Modell
 40=DirectX Shader-Modell
 
+80=nicht vorhanden
+81=Funktion
+82=Instruktion Set
+83=Instruktion
+
+90=Diese Anwendung erfordert mindestens Windows 8.1 oder neuer. 
+91=Sie verwenden eine alte Version dieses Tools. Möglicherweise ist eine neuere Version verfügbar.
+92=Möchten Sie nach einer neueren Version suchen?
+
 100=Rechner
 101=Windows
 102=Systemtyp
@@ -54,6 +63,7 @@
 702=SecureBoot-fähig
 703=Anzeige ist HDR fähig
 704=Anzeige unterstützt kein HDR
+705=%.0f Zoll
 
 800=Windows 11 erfordert einen TPM 2.0-Sicherheitschip
 801=Windows 11 erfordert sicherer Startzustand (SecureBoot)

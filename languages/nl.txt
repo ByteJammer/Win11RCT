@@ -26,6 +26,10 @@
 39=Shader Model
 40=DirectX Shader Model
 
+90=Deze applicatie vereist minimaal Windows 8.1 of nieuwer. 
+91=U gebruikt een oude versie van deze tool. Er is mogelijk een nieuwere versie beschikbaar.
+92=Wilt u controleren of er een nieuwe versie beschikbaar is? 
+
 100=Computer
 101=Windows
 102=Systeemtype
@@ -54,6 +58,7 @@
 702=Met ondersteuning voor beveiligd opstarten
 703=Beeldscherm ondersteunt HDR
 704=Beeldscherm heeft geen ondersteuning voor HDR
+705=%.0f inch
 
 800=Windows 11 vereist een TPM 2.0 beveiligingsprocessor
 801=Windows 11 vereist beveiligd opstarten (Secure Boot)
